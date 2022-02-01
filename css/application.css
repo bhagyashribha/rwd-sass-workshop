@@ -39,7 +39,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: darkmagenta;
+  background-color: #fdf913;
 }
 
 grid-container {
@@ -132,7 +132,7 @@ grid-container > #newDiv {
     background-color: darkturquoise;
   }
   .grid-container > div {
-    background-color: rgb(234, 250, 17);
+    background-color: #f1f51a;
   }
   .img2 {
     width: 10%;
@@ -166,7 +166,7 @@ grid-container > #newDiv {
     background-color: darkturquoise;
   }
   .grid-container > div {
-    background-color: rgb(247, 231, 18);
+    background-color: #edfc1e;
   }
   .img2 {
     width: 10%;
